@@ -1,0 +1,5 @@
+C:/Users/dan-p/Desktop/programko/projekt/Tanky/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/dan-p/Desktop/programko/projekt/Tanky/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/dan-p/Desktop/programko/projekt/Tanky/out/build/x64-Debug/Tanky/CMakeFiles/edit_cache.dir
+C:/Users/dan-p/Desktop/programko/projekt/Tanky/out/build/x64-Debug/Tanky/CMakeFiles/Tanky.dir
+C:/Users/dan-p/Desktop/programko/projekt/Tanky/out/build/x64-Debug/Tanky/CMakeFiles/rebuild_cache.dir
