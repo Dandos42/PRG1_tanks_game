@@ -1,0 +1,25 @@
+VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+T
+T  HRAC 1:			        HRAC 2: 		             HRAC 3: 		            HRAC 4: 
+T 
+T   
+T     
+T
+T
+T
+T
+T                                                                          
+T                                                                              DDD
+T                                                                              DDL                            DDD
+T                                                                              OOO                            DDL
+T                                                                           TTTTTTTTTTT                       OOO
+T                                                                           TTTTT     TTTTTTTTTTTTTTTT     TTTTTT
+T                                         DDD                     TTTTTTTTTTTTTTTT              TTTTTT     TTTTTT
+T  DDD                                    DDL                   TTTT                                TTTTTTTTTTTTT
+T  DDL          TTTTTT                    OOO                 TTTT                                             TTTTTTT
+T  OOO     TTTTTT   TTT                TTTTTTTTTT           TTTT              O       O                             TTTTTTTT
+TTTTTTTTTTTT          TT               TTTTTTTTTT          TTTT                   A                                     TTTTTTTT
+T                      TTTT            TTTTTTTTTT        TTT                _            _                                  TTTTTTTTTT
+T                          TTTT        TTTTTTTTTT      TTTT                  T__________T                                       TTTTT
+T                           TTTTTTTTTTTTTTTTTTTTTTTTTTTT                          U                                             TTTTTTTT
+VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
